@@ -1,4 +1,4 @@
-# Quality-Assurance
+# Quality-Assurance \n
 dokumentasi pembelajaran Quality Assurance pada lembaha pembelajaran 
 1.pastikan sudah terinstal Node and NPM
 2.pada terminal pastikan posisi sudah sesuai dengan lokasi file 
